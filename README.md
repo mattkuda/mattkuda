@@ -1,4 +1,4 @@
-## Hi there, I'm Matt Kuda 👋
+## Howdy! I'm Matt Kuda 👋
 
 <p align="center">
   <a href="https://mattkuda.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-ffc107.svg?&style=for-the-badge&logo=html5&logoColor=black"/></a>
@@ -10,7 +10,7 @@
 
 I'm a Senior Software Engineer and content creator passionate about building **fitness technology** and **AI-powered products** that help people improve their health, workflow, and creativity.
 
-I've built apps like **TabaFit**, a social Tabata workout platform, and **EVEX**, a fitness companion that uses AI agents to create personalized workouts and guide your health journey *(website coming soon)*.  
+Right now I'm building **EVEX**, a fitness companion that uses AI agents to create personalized workouts and guide your health journey *(website coming soon)*.  I've built apps like **TabaFit**, a social Tabata workout platform, and free templates like my *Next.js starter Kit* to empower developers to get started.
 I love shipping fast, learning from the process, and sharing what I build across my channels.
 
 ### My work
@@ -37,25 +37,20 @@ Here are a few of my recent and ongoing projects:
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/mattkuda/TabaFit"><b>🔥 TabaFit</b></a> — a social HIIT app for sharing Tabata workouts</td>
-      <td><img alt="React Native" src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=white" /> <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" /></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/mattkuda/TabaFit?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/mattkuda/TabaFit?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/mattkuda/TabaFit?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mattkuda/TabaFit?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><b>🧠 EVEX</b> — a fitness companion with AI agents for personalized workouts and health insights (<i>website coming soon</i>)</td>
-      <td><img alt="Swift" src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" /> <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" /></td>
-      <td colspan="4" align="center">Private Repository</td>
-    </tr>
-    <tr>
       <td><a href="https://github.com/mattkuda/nextjs-starter"><b>⚡ Next.js SaaS Starter</b></a> — a starter template for SaaS apps with Clerk, Supabase, Stripe, and OpenAI integration</td>
       <td><img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" /></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/mattkuda/nextjs-starter?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/mattkuda/nextjs-starter?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/mattkuda/nextjs-starter?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mattkuda/nextjs-starter?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/mattkuda/TabaFit"><b>🔥 TabaFit</b></a> — a social HIIT app for sharing Tabata workouts</td>
+      <td><img alt="React Native" src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=white" /> <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" /></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/mattkuda/TabaFit?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/mattkuda/TabaFit?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/mattkuda/TabaFit?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mattkuda/TabaFit?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/mattkuda/calendar-copilot"><b>📅 Calendar Copilot</b></a> — an AI-powered calendar assistant using Claude MCP to manage your schedule via chat</td>
@@ -67,17 +62,6 @@ Here are a few of my recent and ongoing projects:
     </tr>
   </tbody>
 </table>
-
-If you like my work and want to support me, you can [sponsor me on GitHub 💖](https://github.com/sponsors/mattkuda)  
-<a href="https://github.com/sponsors/mattkuda" target="_blank"><img alt="GitHub sponsorship" src="https://img.shields.io/github/sponsors/mattkuda" /></a>
-
-You can also find me on other social media:
-
-* [🔊 X](https://x.com/mattkuda)
-* [🎥 YouTube](https://www.youtube.com/@matt_kuda?sub_confirmation=1)
-* [🎬 TikTok](https://www.tiktok.com/@mattkuda)
-* [📷 Instagram](https://instagram.com/mattkuda)
-* [💼 LinkedIn](https://linkedin.com/in/mattkuda)
 
 ### My toolbox
 
